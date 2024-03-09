@@ -30,5 +30,6 @@
   "peerDependencies": {
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "repository": "https://github.com/ozguruysal/changesets-gpr-test"
 }
