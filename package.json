@@ -9,7 +9,8 @@
     "format": "turbo format",
     "clean": "turbo run clean && find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' +",
     "changeset": "changeset",
-    "publish-packages": "turbo run build lint && changeset version && changeset publish --no-git-tag"
+    "version:ci": "changeset version",
+    "publish:ci": "turbo run build lint && changeset publish --no-git-tag"
   },
   "packageManager": "pnpm@8.9.0",
   "devDependencies": {
