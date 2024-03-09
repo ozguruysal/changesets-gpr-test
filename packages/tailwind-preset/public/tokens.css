@@ -1,0 +1,12 @@
+:root {
+  --bg-base: 255 255 255;
+  --bg-primary: 103 82 238;
+  --bg-secondary: 226 224 255;
+  --bg-success: 40 97 70;
+  --bg-destructive: 255 59 48;
+  --fg-base: 10 10 10;
+  --fg-primary: 103 82 238;
+  --fg-secondary: 226 224 255;
+  --fg-success: 40 97 70;
+  --fg-destructive: 255 59 48;
+}
