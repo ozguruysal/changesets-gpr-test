@@ -1,5 +1,11 @@
 # @ozguruysal/spectre-tailwind-preset
 
+## 0.1.0-canary.0
+
+### Minor Changes
+
+- 67532a6: Another canary release
+
 ## 0.0.1
 
 ### Patch Changes
