@@ -7,6 +7,9 @@ on:
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
+env:
+  WORKING_DIRECTORY: services/baukasten
+
 jobs:
   release:
     name: Release
@@ -45,6 +48,7 @@ jobs:
           commit: "Release Spectre packages"
           title: "Release Spectre packages"
           createGithubReleases: false
+          cwd: ${{ env.WORKING_DIRECTORY }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
