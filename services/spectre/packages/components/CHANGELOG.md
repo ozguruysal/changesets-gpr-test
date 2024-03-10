@@ -1,5 +1,11 @@
 # @ozguruysal/spectre
 
+## 0.0.1-alpha.1
+
+### Patch Changes
+
+- 5f7be23: Release spectre only
+
 ## 0.0.1-alpha.0
 
 ### Patch Changes
