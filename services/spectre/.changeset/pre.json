@@ -6,6 +6,7 @@
     "@ozguruysal/spectre-tailwind-preset": "0.0.1"
   },
   "changesets": [
+    "beige-ghosts-burn",
     "tricky-games-burn"
   ]
 }

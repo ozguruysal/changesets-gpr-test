@@ -1,5 +1,11 @@
 # @ozguruysal/spectre
 
+## 0.1.0-canary.1
+
+### Patch Changes
+
+- 67532a6: Another canary release
+
 ## 0.1.0-canary.0
 
 ### Minor Changes
