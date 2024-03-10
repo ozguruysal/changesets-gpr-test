@@ -5,5 +5,7 @@
     "@ozguruysal/spectre": "0.0.1",
     "@ozguruysal/spectre-tailwind-preset": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "tricky-games-burn"
+  ]
 }
