@@ -1,5 +1,12 @@
 # @ozguruysal/spectre-tailwind-preset
 
+## 0.0.1
+
+### Patch Changes
+
+- 89edf8c: First stable release
+- 0e9a323: Initial release
+
 ## 0.0.1-alpha.0
 
 ### Patch Changes
