@@ -1,5 +1,11 @@
 # @ozguruysal/spectre
 
+## 0.1.0-canary.0
+
+### Minor Changes
+
+- 0d9923f: testing canary
+
 ## 0.0.1
 
 ### Patch Changes
