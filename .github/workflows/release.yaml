@@ -7,8 +7,13 @@ on:
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
+defaults:
+  run:
+    shell: bash
+    working-directory: services/spectre
+
 env:
-  WORKING_DIRECTORY: services/baukasten
+  WORKING_DIRECTORY: services/spectre
 
 jobs:
   release:
