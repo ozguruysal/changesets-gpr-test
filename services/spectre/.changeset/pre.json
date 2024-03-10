@@ -5,8 +5,5 @@
     "@ozguruysal/spectre": "0.0.0",
     "@ozguruysal/spectre-tailwind-preset": "0.0.0"
   },
-  "changesets": [
-    "nine-lamps-prove",
-    "twelve-deers-approve"
-  ]
+  "changesets": []
 }
