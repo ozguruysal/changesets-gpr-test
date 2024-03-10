@@ -1,6 +1,6 @@
 {
   "name": "@ozguruysal/spectre",
-  "version": "0.1.0-canary.1",
+  "version": "0.1.0",
   "description": "Spectre Design System",
   "private": false,
   "type": "module",
