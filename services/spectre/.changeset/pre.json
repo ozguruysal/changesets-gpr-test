@@ -6,6 +6,7 @@
     "@ozguruysal/spectre-tailwind-preset": "0.0.0"
   },
   "changesets": [
+    "heavy-snails-share",
     "purple-roses-kneel"
   ]
 }
